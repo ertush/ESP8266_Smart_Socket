@@ -23,6 +23,6 @@ This is a softAP web server hosted by the ESP8266 NodeMCU that allows you to tur
 It is possible to control the smart socket outside your local network if you port foward the listening port of the ESP8266 in your router.
 
 ![alt text](20180726_192056[1].jpg "image of the smart socket")
-![alt text](Socket Use.PNG "image of the smart socket in operation")
+
    
 
